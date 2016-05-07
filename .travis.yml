@@ -1,6 +1,6 @@
 language: python
 dist: trusty
-baraches:
+baranches:
   only:
     - master
     - dev
